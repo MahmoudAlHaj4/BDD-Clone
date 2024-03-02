@@ -17,7 +17,25 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    animation: change 12s  infinite;
+    
 }
+@keyframes change {
+    0% {
+        background-image: url(../assets/slide4.jpg);
+    }
+    50% {
+        background-image: url(../assets/slide3.jpg);
+    }
+    /* /* 50% {
+        background-image: url(../assets/slide4.jpg);
+    } */
+    100% {
+        background-image: url(../assets/slide4.jpg);
+    } 
+    
+}
+
 .nav-bar{
     background-color: red;
     display: flex;
