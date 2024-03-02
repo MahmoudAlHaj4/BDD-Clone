@@ -46,7 +46,8 @@ body{
 .nav-box ul {
     list-style: none;
     display: flex;
-    margin-top: 6%;
+    align-items: center;
+    
     
     
 }
