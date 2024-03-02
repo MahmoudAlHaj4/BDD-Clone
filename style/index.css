@@ -13,3 +13,30 @@ body{
     margin-top: 1%;
     background-color: blue;
 }
+.nav-box{
+    background-color: aqua;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-start; */
+}
+
+.nav-box{
+    display: flex;
+    justify-content: center;
+    
+}
+.nav-box ul {
+    list-style: none;
+    display: flex;
+    margin-top: 6%;
+    
+    
+}
+.nav-box li {
+    margin-right: 30px;
+    margin-top: 10px;
+    color: white;
+    font-size: 15px;
+      
+}
