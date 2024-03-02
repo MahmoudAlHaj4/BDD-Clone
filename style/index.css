@@ -57,3 +57,12 @@ body{
     font-size: 15px;
       
 }
+button{
+    padding: 10px 20px;
+    background-color: rgb(66, 66, 246);
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer; 
+    margin-bottom: 5%;
+}
