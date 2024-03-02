@@ -6,6 +6,17 @@
 
 body{
     background-color: rgb(159, 157, 157);
+    
+}
+.container{
+    display: flex;
+    width: 100%;
+    background-color: blueviolet;
+    height: 1000px;
+    background-image: url(../assets/slide4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .nav-bar{
     background-color: red;
