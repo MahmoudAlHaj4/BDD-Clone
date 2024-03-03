@@ -149,3 +149,16 @@ h1{
     width: 30%;
     margin-left: 90px;
 }
+.frame{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.vid{
+    /* background-color: red; */
+    height: 500px;
+}
+
+
