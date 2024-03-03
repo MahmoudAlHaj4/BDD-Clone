@@ -162,3 +162,59 @@ h1{
 }
 
 
+.join{
+    background-color: red;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+}
+.titlee{
+    background-color: aqua;
+    width: 100%;
+    height: 100px;
+}
+ .join-child {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    background-color: purple;
+    flex-wrap: wrap;
+}
+.join-img{
+    background-color: blue;
+    width:35%;
+    height: 350px;
+}
+.join-img img{
+    width: 100%; 
+    height: 400px;
+}
+
+.box-container{
+    background-color: yellow;
+    width: 65%;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.sub-child{
+    background-color: green;
+    width: 22%;
+    height: 400px;
+    border-radius: 10px;
+    
+    
+}
+.text{
+    background-color: gray;
+    width: 70%;
+    height: 300px;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+.text p{
+    padding-top: 10px;
+
+}
