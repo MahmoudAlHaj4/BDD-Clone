@@ -218,3 +218,17 @@ h1{
     padding-top: 10px;
 
 }
+.sub-child button{
+    margin-left: 15%;
+    margin-top: 15px;
+}
+.Download{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2%;
+}
+.Download img{
+    width: 30%;
+    margin-left: 11%;
+    margin-top: 2%;
